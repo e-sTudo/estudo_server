@@ -1,0 +1,7 @@
+{
+  "title": "NodeMCU - ESP8266",
+  "avatar": "Elt",
+  "subheader": "Opensource Hardware",
+  "options": ["a", "b"],
+  "description": "Dispositivo embarcado capaz de controlar qualquer coisa com Inteligencia das Coisas - IoT"
+}
